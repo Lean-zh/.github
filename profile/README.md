@@ -12,3 +12,4 @@
 ## 联系方式
 - **邮箱**：[leanprover@outlook.com](mailto:leanprover@outlook.com)
 - **QQ群**：897971266
+- **Telegram**：[t.me/Lean_zh_CN](https://t.me/Lean_zh_CN)
