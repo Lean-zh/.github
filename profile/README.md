@@ -1,15 +1,22 @@
-# Lean-zh
+[![Email Badge](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:leanprover@outllook.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Join_Chat-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Lean_zh_CN)
+[![QQ群](https://img.shields.io/badge/QQ-Join_Group-blue.svg?logo=tencent-qq&style=flat)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tC0R88AwoljjpvA2fGAvkucJCOeJnLDR&authKey=AHE8WSVpMeNAoc4Ax8%2BkiM%2FrBkAcpFfcuc7V746wcdIWXYloyGWcn2IkBhpVsumI&noverify=0&group_code=897971266)
+[![Website](https://img.shields.io/badge/Website-Visit_US-blue.svg?style=flat)](https://www.leanprover.cn)
 
-欢迎来到 Lean-zh 的 GitHub 页面！这里是 Lean 定理证明器的中文翻译和文档项目。我们的目标是促进 Lean 在中文学术和编程社区的理解和应用。
+### Lean-zh 社区
+---
 
-## 项目目标
-- **翻译和校对**：提供 Lean 定理证明器官方文档的高质量中文翻译，参考[翻译规范](https://github.com/orgs/Lean-zh/projects/2)
+Lean-zh 专注于 Lean 定理证明器的中文翻译，旨在提高 Lean 在中文学术和编程社区的普及和应用。
+
+#### 项目目标
+- **翻译和校对**：提供 Lean 定理证明器官方文档的高质量中文翻译，参考[翻译流程](https://github.com/orgs/Lean-zh/projects/2)。
 - **资源共享**：分享有关 Lean 使用和学习的中文资源，包括教程、视频和案例研究。
 
-## 如何参与
-我们欢迎任何形式的贡献，包括但不限于文档翻译、校对、撰写教程、技术支持等。如果你有兴趣加入我们，请查看[贡献指南](./CONTRIBUTING.md)或直接联系我们。
+#### 如何开始？
 
-## 联系方式
-- **邮箱**：[leanprover@outlook.com](mailto:leanprover@outlook.com)
-- **QQ群**：897971266
-- **Telegram**：[t.me/Lean_zh_CN](https://t.me/Lean_zh_CN)
+- 📘 如果您是初学者，需要介绍，推荐访问 [Glimpse Of LEAN(初探 LEAN）](https://www.leanprover.cn/GlimpseOfLean/)。
+- 🌟 如果您想参与贡献和开发，请查看[贡献指南](./CONTRIBUTING.md)和[翻译规范](https://github.com/Lean-zh/fp-lean-zh/issues/1)。
+- 👩‍💻 可以通过我们的 QQ 群 897971266 或 Telegram [加入讨论](https://t.me/Lean_zh_CN)。
+
+---
+更多信息请访问 [Lean-zh 主页](https://www.leanprover.cn/).
