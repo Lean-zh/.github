@@ -14,9 +14,9 @@ Lean-zh 旨在提高 Lean 在中文学术和编程社区的普及和应用，当
 
 #### 如何开始？
 
-- 📘 如果您是初学者，需要介绍，推荐访问 [Glimpse Of LEAN(初探 LEAN）](https://www.leanprover.cn/GlimpseOfLean/)。
+- 📘 如果您是初学者，需要快速了解 LEAN，推荐访问 [Glimpse Of LEAN(初探 LEAN）](https://www.leanprover.cn/GlimpseOfLean/) 或者 [自然数游戏](https://game.lookeng.cn/#/g/local/NNG4)。
 - 🌟 如果您想参与贡献和开发，请查看[贡献指南](./CONTRIBUTING.md)和[翻译规范](https://github.com/Lean-zh/fp-lean-zh/issues/1)。
-- 👩‍💻 可以通过我们的 QQ 群 897971266 或 Telegram [加入讨论](https://t.me/Lean_zh_CN)。
+- 👩‍💻 可以通过我们的 QQ 群 897971266 或 [Telegram](https://t.me/Lean_zh_CN) 加入讨论。
 
 ---
 更多信息请访问 [Lean-zh 主页](https://www.leanprover.cn/).
